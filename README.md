@@ -1,6 +1,6 @@
 # platzi-exchange
 En este repositorio se encuentra un proyecto realizado en un curso de introducción a VUE.js. El proyecto consiste en una Single Page Application, donde se despliega información de criptomonedas extraídas mediante una API. 
-Puedes visualizar el proyecto en [este enlace](https://platzi-exchange-pruebadeg.netlify.app/coin/bitcoin)
+Puedes visualizar el proyecto en [este enlace](https://platzi-exchange-pruebadeg.netlify.app/)
 
 ## Project setup
 ```
